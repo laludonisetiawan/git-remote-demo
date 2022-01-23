@@ -1,0 +1,9 @@
+# menghiraukan file app.log
+app.log 
+
+# menghiraukan semua file yang bertipe .log
+*.log
+
+# menghiraukan folder dan isinya
+build/
+
